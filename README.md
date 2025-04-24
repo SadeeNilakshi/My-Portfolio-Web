@@ -1,2 +1,2 @@
 # personal-portfolio-web
-![personal-portfolio-html-template](https://github.com/user-attachments/assets/319b1d7c-3e97-4a61-b47b-02b24f57faf4)
+![personal-portfolio-html-template](https://raw.githubusercontent.com/SadeeNilakshi/My-Portfolio-Web/7310755f05184a1221788b759415f1bc02735851/rdme.png)
